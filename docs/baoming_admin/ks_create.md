@@ -8,4 +8,4 @@
 
 1)考试名称推荐样例: `2019年9月21日二级考试`
 
-![](http://localhost:3000/static/img/baoming_admin/ks_create.png)
+![](../static/img/baoming_admin/ks_create.png)

@@ -5,4 +5,4 @@
 #### 注意
     1) 账户、密码为超级管理员后台分配;
 
-![](http://localhost:3000/static/img/baoming_admin/login.png)
+![](../static/img/baoming_admin/login.png)

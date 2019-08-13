@@ -8,4 +8,4 @@
     2) 可通过手机号找回密码;
 
 
-![](http://localhost:3000/static/img/baoming/register.png)
+![](../static/img/baoming/register.png)

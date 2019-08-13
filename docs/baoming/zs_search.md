@@ -7,4 +7,4 @@
     1) 证书公布后方可查询,请留意证书发布时间;
 
 
-![](http://localhost:3000/static/img/baoming/zs_search.png)
+![](../static/img/baoming/zs_search.png)

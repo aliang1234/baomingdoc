@@ -8,4 +8,4 @@
     2) 考试报名开始方可报名,请留意报名时间;
 
 
-![](http://localhost:3000/static/img/baoming/bm_add.png)
+![](../static/img/baoming/bm_add.png)

@@ -8,4 +8,4 @@
     2) 按照规定尺寸上传证件照片,以免影响信息审核、准考证打印;
 
 
-![](http://localhost:3000/static/img/baoming/user_edit.png)
+![](../static/img/baoming/user_edit.png)
