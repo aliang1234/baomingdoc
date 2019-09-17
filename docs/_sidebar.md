@@ -18,11 +18,16 @@
     * [创建报名考试](baoming_admin/ks_create)
     * [报名时间设置](baoming_admin/ks_date_set)
     * [准考证打印设置](baoming_admin/ks_print_date_set)
+    * [考点分配](baoming_admin/ks_user_kaochang)
     * [角色管理](baoming_admin/role_list)
     * [人员管理](baoming_admin/user_list)
+    
+    
 * [考试系统-用户端](kaoshi/)
     * [登录](kaoshi/login)
 * [考试系统-后台](kaoshi_admin/)
     * [登录](kaoshi_admin/login)
     * [试题录入](kaoshi_admin/shiti_set)
+    
+    
 * [关于作者](about)
