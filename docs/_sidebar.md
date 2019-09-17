@@ -21,7 +21,7 @@
     * [角色管理](baoming_admin/role_list)
     * [人员管理](baoming_admin/user_list)
 * [考试系统-用户端](kaoshi/)
-    * [登录](baoming/login)
+    * [登录](kaoshi/login)
 * [考试系统-后台](kaoshi_admin/)
     * [登录](kaoshi_admin/login)
     * [试题录入](kaoshi_admin/shiti_set)
